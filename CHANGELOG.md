@@ -1,3 +1,49 @@
+## [2.12.0-stage.19](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.18...v2.12.0-stage.19) (2025-02-26)
+
+### 🐛 Bug Fixes
+
+* **api:** Added back missing endpoints ([#798](https://github.com/keyshade-xyz/keyshade/issues/798)) ([c6a0df9](https://github.com/keyshade-xyz/keyshade/commit/c6a0df9679eb4f0c1ec53ec436adc2b5f5bd84d8))
+
+## [2.12.0-stage.18](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.17...v2.12.0-stage.18) (2025-02-26)
+
+### 🚀 Features
+
+* **cli:** Error message formatted ([#797](https://github.com/keyshade-xyz/keyshade/issues/797)) ([0322944](https://github.com/keyshade-xyz/keyshade/commit/03229446207dc7bc55d0aed5a049255fcc86ede3))
+
+## [2.12.0-stage.17](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.16...v2.12.0-stage.17) (2025-02-26)
+
+### 🐛 Bug Fixes
+
+* **api:** Issue with authorities and expiry field update in API Key ([#800](https://github.com/keyshade-xyz/keyshade/issues/800)) ([8e30f15](https://github.com/keyshade-xyz/keyshade/commit/8e30f15449fcf3333c7eaa26f4d8c6bd02f8b0a6))
+
+## [2.12.0-stage.16](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.15...v2.12.0-stage.16) (2025-02-23)
+
+### 🐛 Bug Fixes
+
+* **web:** Misalignment of toast message after joining the waitlist ([#791](https://github.com/keyshade-xyz/keyshade/issues/791)) ([688e11c](https://github.com/keyshade-xyz/keyshade/commit/688e11c201f1cbdc77b8906805f384aad85f90ab))
+
+### 🔧 Miscellaneous Chores
+
+* **ci:** Remove PR unassign script ([f174101](https://github.com/keyshade-xyz/keyshade/commit/f17410100d845a28affc25d369733facd3809ab5))
+
+## [2.12.0-stage.15](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.14...v2.12.0-stage.15) (2025-02-23)
+
+### 🐛 Bug Fixes
+
+* **api:** Added import statement for crypto module ([#789](https://github.com/keyshade-xyz/keyshade/issues/789)) ([f6ddf0f](https://github.com/keyshade-xyz/keyshade/commit/f6ddf0fc54280c9844143ac42840fcbde1438b23))
+
+## [2.12.0-stage.14](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.13...v2.12.0-stage.14) (2025-02-23)
+
+### 🐛 Bug Fixes
+
+* **api:** Issue fetched via API ([#788](https://github.com/keyshade-xyz/keyshade/issues/788)) ([b373eeb](https://github.com/keyshade-xyz/keyshade/commit/b373eeb5974ee61bd07ce586da4b56dbd0d10fab))
+
+## [2.12.0-stage.13](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.12...v2.12.0-stage.13) (2025-02-23)
+
+### 🐛 Bug Fixes
+
+* **platform:** Add graceful fallback in error parsing ([a59de60](https://github.com/keyshade-xyz/keyshade/commit/a59de60e40b6f3617a4278837e0c63fcb5752d16))
+
 ## [2.12.0-stage.12](https://github.com/keyshade-xyz/keyshade/compare/v2.12.0-stage.11...v2.12.0-stage.12) (2025-02-22)
 
 ### 🚀 Features
